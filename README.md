@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WCheyenneLu
-- 👀 I’m interested in Software Design and Development and UI/UX.
+- 👀 I’m interested in Software Design and Development, Data Science, and UI/UX.
 - 🌱 I’m currently an undergraduate student at UCLA studying Statistics & Data Science and Cognitive Science.
 - 📫 Professional Email: cheyennelu17@g.ucla.edu
 
