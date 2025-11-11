@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @WCheyenneLu
-- 👀 I’m interested in Software Design and Development, Data Science, and Machine Learning.
-- 🌱 I’m currently an undergraduate student at UCLA studying Statistics & Data Science and Cognitive Science.
-- 📫 Professional Email: cheyennelu17@g.ucla.edu
 
+# Hi, I'm Cheyenne 👋
+
+- 🌱 I'm a UCLA Statistics & Cognitive Science student exploring machine learning, human-centered computing, and data-driven storytelling.
+- 👀 I’m interested in Software Design and Development, Data Science, and Machine Learning.
+- 📫 Professional Email: cheyennelu17@gmail.com
+
+### What I Work On
+- Full-stack / Front-end (React, Vue, REST APIs)
+- Data Science / EDA / Statistical Modeling
+- Machine Learning (PyTorch, classical ML, model evaluation)
+  
 ## Web Design/ Development Projects
 - [2025: Humming Bird] (https://github.com/WCheyenneLu/HummingBird): Inspired by Shazam, I built HummingBird, a Python project that, in real time, listens to a short hummed melody, extracts frequency features with librosa, aligns them via dynamic time warping, and returns the top match.
 - [2024: Jumpway.co.ltd. Website Version 2](https://github.com/WCheyenneLu/jumpwayv2): Due to lack of fluency, bugs, and small layout issues, I recreated the company website from last year using Figma for design and React JS to develop the website into an single-paged application. 
