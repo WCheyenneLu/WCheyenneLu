@@ -2,7 +2,7 @@
 Real-time classical music recognition from hummed input 
 
 ## Tech Stack
-Python, numpy, librosa, React.js, Fast API, 
+Python, numpy, librosa, React.js, Fast API
 
 ## What It Does
 - Converts humming into peak frequency sequences by detecting dominant spectral peaks
