@@ -2,10 +2,9 @@
 # Hi, I'm Cheyenne 👋
 
 - 🌱 I'm a UCLA Statistics & Cognitive Science student exploring machine learning, human-centered computing, and data-driven storytelling.
-- 👀 I’m interested in Software Design and Development, Data Science, and Machine Learning.
 - 📫 Professional Email: cheyennelu17@gmail.com
 
-### What I Work On
+### What I Work On 👀
 - Full-stack / Front-end (React, Vue, REST APIs)
 - Data Science / EDA / Statistical Modeling
 - Machine Learning (PyTorch, classical ML, model evaluation)
