@@ -2,7 +2,7 @@
 Redesign and develop out-of-date website for a manufactoring company (Link: http://www.jumpway.co.th/)
 
 ### Tech Stack
-React.js, Javascript, CSS
+React.js, Javascript, CSS, Figma
 
 ### Outcomes
 - Comleted and launched the company website to replace old website (last updated in 2010)
