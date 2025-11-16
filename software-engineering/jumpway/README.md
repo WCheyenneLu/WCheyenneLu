@@ -4,6 +4,11 @@ Redesign and develop out-of-date website for a manufactoring company (Link: http
 ### Tech Stack
 React.js, Javascript, CSS
 
+### Outcomes
+- Comleted and launched the company website to replace old website (last updated in 2010)
+- Integrated EmailJS to streamline customer outreach, contributing to an 80% increase in inbound client requests
+- Website has clearer brand image and wholistic and updated overview of company servies and culture
+
 ### Design Process
 | Step | Preview |
 |------|----------|
