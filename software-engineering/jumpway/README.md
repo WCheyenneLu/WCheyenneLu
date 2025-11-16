@@ -5,7 +5,8 @@ Redesign and develop out-of-date website for a manufactoring company (Link: http
 React.js, Javascript, CSS
 
 ### Design Process
-| ------------- | ------------- |
+| Step | Preview |
+|------|----------|
 | Created website moodboard |<img width="729" height="553" alt="image" src="https://github.com/user-attachments/assets/35a8f64b-8745-46d8-b590-5dbe7b0ddebe" /> |
 | Design Website LoFi | <img width="1010" height="630" alt="image" src="https://github.com/user-attachments/assets/5089ed8b-f3f4-4ade-bc66-dce5dce569a0" /> |
 | Finalize website typography and palette| <img width="816" height="600" alt="image" src="https://github.com/user-attachments/assets/e2533dbc-770d-4a73-a61d-04f42a3527cf" /> |
