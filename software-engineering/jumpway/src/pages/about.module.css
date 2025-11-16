@@ -1,0 +1,121 @@
+.whoWeAre {
+  width: 100%;
+  background-color:#19223e;
+  display: flex;
+}
+.whoWeAre .leftContainer {
+  width: 50%;
+  min-height: 20rem;
+  color: #f7f7f7;
+}
+.whoWeAre .textbox {
+  padding: 2rem 3rem 2rem 0;
+  padding-left: 0;
+}
+.whoWeAre .textbox p {
+  color: #f7f7f7;
+}
+.whoWeAre .rightContainer {
+  width: 50%;
+  border: grey 1px solid;
+  min-height: 20rem;
+}
+.ourTeam {
+  min-height: 40rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.ourTeam h2 {
+  width: 100%;
+}
+.profile {
+  width: 20%;
+  min-height: 18rem;
+  border:  1px solid;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.profile .nameAndPosition {
+  width: 100%;
+  min-height: 5rem;
+  background-color: #19223e;
+  color: #f7f7f7;
+  position: absolute;
+  bottom: 0;
+  padding: 0 1rem;
+}
+.vacancies {
+  background-color:#19223e;
+  display: flex;
+}
+.vacancies .leftContainer,
+.vacancies .rightContainer {
+  width: 50%;
+  min-height: 12rem;
+  color: #f7f7f7;
+}
+.vacancies .leftContainer {
+  padding: 2rem;
+}
+.ourStory {
+  display: flexbox;
+  width: 100%;
+  position: relative;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.ourStory h2 {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+.ourStory .timeline {
+  width: 250%;
+  min-height: 20rem;
+  display: flex;
+  position: relative;
+}
+.ourStory .timeline .line {
+  height: 5px;
+  position: absolute;
+  top: 4.4rem;
+  left: 0.1rem;
+  background-color: #eb7133;
+  width: 99%;
+  text-align: right;
+  overflow: visible;
+}
+.ourStory .timeline .line h2 {
+  line-height: 0;
+  transform: translate(0.4rem, -1.93rem);
+}
+.storyCard {
+  width: 24rem;
+  min-height: 20rem;
+}
+.storyCard h3 {
+  color: #19223e;
+  line-height: 0;
+}
+.storyCard .circle {
+  background-color: #eb7133;
+  width: 1rem;
+  border-radius: 60%;
+  height: 1rem;
+}
+.storyCard .image {
+  width: 100%;
+  min-height: 8rem;
+  margin-top: 1rem;
+  border: grey 1px solid;
+  margin-left: 0.5rem;
+}
+.storyCard .textbox {
+  width: 100%;
+  padding-right: 1rem;
+  height: fit-content;
+  margin-left: 1rem;
+}
