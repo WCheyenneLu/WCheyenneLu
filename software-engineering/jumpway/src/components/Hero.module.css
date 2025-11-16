@@ -1,0 +1,19 @@
+.hero {
+  height: 18rem;
+}
+.heroMask {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  min-height: 18rem;
+  opacity: 75%;
+  background-color: #140d04;
+}
+.heroText {
+  position: absolute;
+  top: 9rem;
+  left: 6rem;
+  z-index: 2;
+  color: #e5e5e5;
+}

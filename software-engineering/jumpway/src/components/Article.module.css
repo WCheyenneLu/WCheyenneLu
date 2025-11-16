@@ -1,0 +1,39 @@
+.article {
+  border: grey 1px solid;
+  height: 10rem;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.article.left {
+  min-height: 22rem;
+  margin-bottom: 0;
+}
+.article .image {
+  width: 100%;
+  background-color: grey;
+  height: 50%;
+  border: black 1px solid;
+}
+.article .image.left {
+  height: 70%;
+}
+.article .textbox {
+  padding: 0 1rem;
+  position: relative;
+  background-color: #f7f7f7;
+}
+.article .textbox .date {
+  position: absolute;
+  top: -2.9rem;
+  border: black 1px solid;
+  border-bottom: none;
+  width: 50%;
+  text-align: left;
+  padding-left: 0.5rem;
+  background-color: #f7f7f7;
+}
+.article .textbox .date p {
+  line-height: 0;
+  margin: 0.75rem 0;
+}

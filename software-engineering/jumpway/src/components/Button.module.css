@@ -1,0 +1,21 @@
+.button {
+  padding: 0 1rem;
+  align-items: center;
+  background-color: #eb7133;
+  display: inline-block;
+  border-radius: 4px;
+  border: #eb7133 1px solid;
+  box-sizing: border-box;
+  width: fit-content;
+  text-align: center;
+  white-space: nowrap;
+}
+.button :hover {
+  cursor: pointer;
+}
+.button p {
+  line-height: 10px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #f7f7f7;
+}

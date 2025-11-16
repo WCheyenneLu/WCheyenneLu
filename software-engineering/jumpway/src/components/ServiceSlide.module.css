@@ -1,0 +1,40 @@
+.serviceSlide {
+  width: 100%;
+  min-height: 34.5rem;
+  background-color: #f7f7f7;
+  padding: 4rem 0rem;
+  display: flex;
+}
+.serviceSlide .line {
+  width: 8rem;
+  height: 3px;
+  background-color: #19223e;
+  position: absolute;
+  top: 9rem;
+  transition-duration: 0.5s;
+}
+.serviceSlide .leftContainer,
+.serviceSlide .rightContainer {
+  width: 50%;
+  height: 100%;
+  padding: 2rem;
+}
+.serviceSlide .leftContainer .line {
+  width: 30%;
+  position: static;
+  height: 3px;
+  background-color: #163b8a;
+  top: auto;
+}
+.serviceSlide .textbox {
+  width: 100%;
+  height: fit-content;
+  padding: 2rem 1rem 2rem 0;
+  display: flex;
+}
+.serviceSlide .image {
+  width: 95%;
+  max-height: 12rem;
+  overflow: hidden;
+  margin: 1rem;
+}
