@@ -1,11 +1,11 @@
-# Jumpway Website
-Redesign and develop out-of-date website for a manufactoring company (Link: http://www.jumpway.co.th/)
+# Jumpway Website (Internship - Summer 2024)
+I came across an outdated website and reached out to the company to offer to redesign and develop their website (Link: http://www.jumpway.co.th/)
 
 ### Tech Stack
 React.js, Javascript, CSS, Figma
 
 ### Outcomes
-- Comleted and launched the company website to replace old website (last updated in 2010)
+- Completed and launched the company website to replace old website (last updated in 2010)
 - Integrated EmailJS to streamline customer outreach, contributing to an 80% increase in inbound client requests
 - Website has clearer brand image and wholistic and updated overview of company servies and culture
 
