@@ -1,13 +1,11 @@
 
 # Hi, I'm Cheyenne 👋
 
-- 🌱 I'm a UCLA Statistics & Cognitive Science student exploring machine learning, human-centered computing, and data-driven storytelling.
+- 🌱 I'm a UCLA Statistics & Cognitive Science student exploring human-centered computing.
 - 📫 Professional Email: cheyennelu17@gmail.com
 
 ### What I Work On 👀
-- Full-stack / Front-end (React, Vue, REST APIs)
-- Data Science / EDA / Statistical Modeling
-- Machine Learning (PyTorch, classical ML, model evaluation)
+Passionate software engineer driven by coding 💻, learning 💡, and solving complex challenges. Thrive on exploring emerging technologies to build scalable solutions 📈. Committed to lifelong learning 📚 and shaping the future of tech across industries.
   
 ## Web Design/ Development Projects
 - [2025: Syscom Internship](https://github.com/WCheyenneLu/WCheyenneLu/tree/main/software-engineering/syscom): Front-end engineering internship using Vue.js (Vite, Pinia, Vuetify) to turn a survey platform into a course system. 
