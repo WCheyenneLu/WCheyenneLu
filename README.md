@@ -4,7 +4,6 @@
 - 🌱 I'm a UCLA Statistics & Cognitive Science student exploring human-centered computing.
 - 📫 Professional Email: cheyennelu17@gmail.com
 
-### What I Work On 👀
 Passionate software engineer driven by coding 💻, learning 💡, and solving complex challenges. Thrive on exploring emerging technologies to build scalable solutions 📈. Committed to lifelong learning 📚 and shaping the future of tech across industries.
   
 <!--- ## Web Design/ Development Projects
